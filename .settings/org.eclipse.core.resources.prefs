@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/myclass/db/JDBCConnection.java=UTF-8
+encoding//src/com/myclass/filter/AuthFilter.java=UTF-8
+encoding//src/com/myclass/repository/RoleRepository.java=UTF-8
+encoding//src/com/myclass/repository/UserRepository.java=UTF-8
+encoding//src/com/myclass/servlet/AuthServlet.java=UTF-8
+encoding//src/com/myclass/servlet/HomeServlet.java=UTF-8
+encoding//src/com/myclass/servlet/RoleServlet.java=UTF-8
+encoding//src/com/myclass/servlet/UserServlet.java=UTF-8
